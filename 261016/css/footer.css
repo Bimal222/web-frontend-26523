@@ -1,5 +1,5 @@
 /* footer.css … 26523 さんの担当 */
-.movement-footer{
+.movement-footer {
     padding: 40px 16px;
     background: #2b2b2b;
     color: #ccc;
@@ -13,10 +13,10 @@
 }
 
 .class="movement-footer__listlist {
-    margin: 0 0 16px;
-    padding: 0;
-    list-style: none;
-    font-size: 14px;
+ margin: 0 0 16px;
+padding: 0;
+list-style: none;
+font-size: 14px;
 }
 
 .movement-footer__btn {
